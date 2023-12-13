@@ -1,0 +1,11 @@
+A szabályok egyszerűek.
+A Light Up egy téglalap alakú rácson játszódik.
+A rács fekete és fehér cellákból áll.
+A cél az, hogy villanykörtéket helyezzünk el a rácsra úgy, hogy minden fehér négyzet világítson.
+Egy cella akkor van megvilágítva egy villanykörte által, ha ugyanabban a sorban vagy oszlopban vannak,
+és nincsenek fekete cellák közöttük.
+Emellett egyik villanykörte sem világíthatja meg a másikat.
+Néhány fekete cellában számok vannak.
+Egy szám a fekete cellában azt jelzi, hogy hány villanykörte osztozik érintkezési ponton a cellával.
+
+Bal kattintással helyezz el egy villanykörtét a cellában, jobb kattintással jelöld meg X-szel.
