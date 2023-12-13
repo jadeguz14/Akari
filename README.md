@@ -1,6 +1,6 @@
 # Akari
 A programozás alapjai 3 – Házi feladat dokumentáció
-Jankó Bendegúz – VLASX1
+Jankó Bendegúz
 Akari/Light up
 Felhasználói Útmutató:
 1.	Kezdeti lépések:
